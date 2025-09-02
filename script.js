@@ -24,7 +24,7 @@ for (const btn of callButtons) {
         const serviceName = card.querySelector(".service-name").textContent;
         const serviceNumber = card.querySelector(".service-number").textContent;
 
-        if (coins < 20) {
+        if(coins < 20) {
             alert("Not enough coins to make a call!");
             return;
         }
