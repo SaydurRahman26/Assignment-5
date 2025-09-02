@@ -15,4 +15,4 @@ Fewer event listeners needed.
 Dynamically added child elements also handled automatically.
 
 5.preventDefault() : Prevents the default action of an element (like form submission or link navigation).
-stopPropagation() : Stops the event from bubbling up to parent elements.
+stopPropagation()  : Stops the event from bubbling up to parent elements.
